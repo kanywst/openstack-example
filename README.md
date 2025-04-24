@@ -1,4 +1,4 @@
-# OpenStack: クラウドインフラストラクチャの包括ガイド
+# OpenStack
 
 ## 目次
 - [OpenStackとは](#openstackとは)
